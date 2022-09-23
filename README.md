@@ -1,5 +1,5 @@
 # Future Ready Talent Project Work
-# Project Name : Exchange Rate Calculator with Note pad.
+# Project Name : Exchange Rate Calculator with Add Note & Chat Bot.
 
 # Project Link : https://proud-tree-08cffd110.1.azurestaticapps.net
 
@@ -15,7 +15,7 @@ I created a Exchange Rate Calculator
 * Chat_Bot to assist the user.
 * Fetch exchange rates from API (https://api.exchangerate-api.com).
 * Display UI with 2 select lists for countries and 2 inputs for amounts.
-* Note pad 
+* Add Note
 
 
 # Exchange Rate Calculator
