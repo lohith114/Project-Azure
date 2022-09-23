@@ -1,4 +1,4 @@
-# Future Ready Taleent Project Work
+# Future Ready Talent Project Work
 # Project Name : Exchange Rate Calculator with Note pad.
 
 I created a Exchange Rate Calculator
