@@ -1,6 +1,8 @@
 # Future Ready Talent Project Work
 # Project Name : Exchange Rate Calculator with Note pad.
 
+# Project Link : https://proud-tree-08cffd110.1.azurestaticapps.net
+
 I created a Exchange Rate Calculator
 
 * Select countries to get the exchange rate for a specific amount
@@ -24,3 +26,8 @@ I created a Exchange Rate Calculator
 
 # Chat Bot
 ![image](https://user-images.githubusercontent.com/111067381/191926910-d02e7e05-e97d-455f-a066-8caa96b712ea.png)
+
+# My Azure Portal
+![image](https://user-images.githubusercontent.com/111067381/191927308-cc2b152f-386c-483e-9c51-0332231bf0d5.png)
+
+
